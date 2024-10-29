@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://urosuudo.github.io/sitemap_index.urosuudo
